@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    implementation("org.jsoup:jsoup:1.23.1")
     testImplementation(kotlin("test"))
 }
 
